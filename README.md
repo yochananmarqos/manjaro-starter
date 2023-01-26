@@ -67,7 +67,7 @@ pamac install manjaro-starter
 ```
 or
 ```sh
-pacman -Sy manjaro-starter
+pacman -S manjaro-starter
 ```
 
 A PKGBUILD can be found on [Manjaro GitLab](https://gitlab.manjaro.org/packages/extra/manjaro-starter). Also, Binary files can be found to release page for each release.
